@@ -1,7 +1,3 @@
-You count the elements in your source list. You count the elements in your test list(s).
-
-If your source list has enough elements (more or equal occurences of that number) then your test-list has, you can construct it from the source list:
-
 from collections import Counter
 from itertools import chain
 
